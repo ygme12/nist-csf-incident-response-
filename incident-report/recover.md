@@ -1,9 +1,6 @@
 # Recover
-After containment, affected network services were restored to normal operation. Firewall and IDS/IPS configurations were validated to ensure proper protection. Systems were monitored post-recovery to confirm stable network functionality and prevent recurrence.
 
-
-
-
+After restoring network services, the IT team validated firewall and IDS/IPS configurations to ensure proper protection. The network was monitored to confirm stability, and all affected systems returned to normal operation. These recovery actions minimized downtime and ensured that the network remained resilient against future DoS attacks.
 
 
 
