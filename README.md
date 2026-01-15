@@ -10,6 +10,7 @@ Incident response project using the NIST CSF to analyze and mitigate a DoS attac
 This repository demonstrates the application of the **NIST Cybersecurity Framework (CSF)** to a Denial of Service (DoS) attack caused by an ICMP flood. The goal is to showcase structured incident handling, security improvement planning, and recovery strategies aligned with real-world SOC operations.
 
 ## Framework Used
+NIST CSF
 - Identify
 - Protect
 - Detect
